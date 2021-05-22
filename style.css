@@ -1,0 +1,60 @@
+body {
+  background-color: tomato
+}
+
+h1 {
+  text-align: center;
+  color: grey
+}
+
+.sitat {
+  text-align: center;
+  font-weight: 900;
+  font-style: italic;
+  color: yellow
+}
+
+li {
+  text-align: center;
+  color: yellow
+}
+
+a {
+  text-align: center;
+}
+
+img {
+  width: 200px
+}
+
+img {
+  border-radius: 50%
+}
+
+img {
+  border-color: yellow
+}
+
+img {
+  border-width: 4px
+}
+
+img {
+  border-style: solid;
+}
+
+img {
+  display: block;
+}
+
+img {
+  margin-left: auto;
+}
+
+img {
+  margin-right: auto;
+}
+
+img {
+  margin-top: 40px
+}
